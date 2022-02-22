@@ -1,7 +1,8 @@
 # Haipei Chen's Rango Project
 This is the repository for me to study Django myself based on **Tango With Django 2: A beginner’s guide to web development with Django 2** by Leif Azzopardi and David Maxwell.
 
-### Testing of Implementation
+### Testing of Implementation(with test file)
+For the project without test file, see the next commit revision.
 
 | Chapter  | Revision ID |
 | ------------- | ------------- |
